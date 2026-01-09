@@ -4,9 +4,6 @@
 
 </div>
 
-
-
-
 This repository documents my **Data Structures & Algorithms (DSA) journey from absolute scratch**, with a strong focus on **problem-solving, fundamentals, and consistency**.
 
 I am learning DSA step by step and pushing **day-wise code and learnings** to this repository.  
@@ -38,6 +35,7 @@ It is about **understanding concepts deeply from first principles**.
 ## 📅 Structure
 
 The repository is organized **day-wise**:
+
 ```
 
 Day-01/
@@ -48,6 +46,7 @@ Day-03/
 ```
 
 Each day may include:
+
 - 📘 Concept notes
 - 🧠 Problem explanations
 - 💻 Code implementations
@@ -68,6 +67,7 @@ Each day may include:
 ## 🌱 Progress Tracking
 
 I will be sharing my daily progress on:
+
 - **LinkedIn**
 - **X (Twitter)**
 
@@ -83,6 +83,8 @@ This helps me stay accountable and may also help others who are starting their D
 
 ---
 
+<div align="center">
+
 ## ⭐ Final Note
 
 Learning DSA is a marathon, not a sprint.
@@ -91,6 +93,5 @@ This repository represents **daily effort, growth, and discipline**.
 If you find this helpful, feel free to ⭐ the repo and follow along.
 
 Happy coding! 🚀
-```
 
-
+</div>
