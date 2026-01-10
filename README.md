@@ -4,6 +4,8 @@
 
 </div>
 
+> *Created by: Neeraj | [LinkedIn: neeraj-kumar1904](https://linkedin.com/in/neeraj-kumar1904) 💼 | [X: @_19_neeraj](https://x.com/_19_neeraj) 🐦 | [GitHub: Neeraj05042001](https://github.com/Neeraj05042001) 🐙* |
+
 This repository documents my **Data Structures & Algorithms (DSA) journey from absolute scratch**, with a strong focus on **problem-solving, fundamentals, and consistency**.
 
 I am learning DSA step by step and pushing **day-wise code and learnings** to this repository.  
